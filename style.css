@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.logo{
+    background-color: white;
+    display: inline;
+}
