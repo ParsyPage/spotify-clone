@@ -1,0 +1,15 @@
+/* This file is used to store some of the useful css functions */
+
+.border{
+    border: 2px solid blue;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.invert{
+    img.invert(1)
+}
+
