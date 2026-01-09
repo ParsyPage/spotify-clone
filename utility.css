@@ -10,6 +10,6 @@
 }
 
 .invert{
-    img.invert(1)
+    filter: invert(1);
 }
 
